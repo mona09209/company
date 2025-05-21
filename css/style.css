@@ -414,6 +414,11 @@ header .container .social i:hover {
     justify-content: space-between;
     align-items: center;
 }
+.about-info,
+.about-img {
+   width: 50%;
+}
+
 @media (max-width:768px) {
   .about-us .container {
         flex-direction: column-reverse;
@@ -431,12 +436,6 @@ header .container .social i:hover {
     }
     
 }
-
-.about-info,
-.about-img {
-   width: 50%;
-}
-
 
 .about-us h2 {
     font-size: 30px;
