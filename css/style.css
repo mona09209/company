@@ -186,7 +186,7 @@ header .container .social i:hover {
 .hero .container .hero-img img {
     width: 500px;
     position: relative;
-    animation: move 1s ease-out forwards;
+    animation: move 1.5s ease-out forwards;
    opacity: 0;
 }
 
